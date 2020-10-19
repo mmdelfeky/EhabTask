@@ -18,7 +18,7 @@ const Header = () => {
 
         <AppInput
           placeholderColor="#ABABBA"
-          placeholder="ابحث عن وصفة"
+          placeholder="ابحث عن وصفة..."
           margin={8}
           borderRadius={30}
           height={7.5}
